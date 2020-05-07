@@ -193,7 +193,7 @@ plot(kTest)
 #dev.off()
 ```
 
-![](E:/Local MSBA course work/unstructured/pfktest2.png)
+![](./pfktest2.png)
 
 Choose 5 as the number of topics.
 
